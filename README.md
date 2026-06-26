@@ -60,7 +60,7 @@ The location-level gap was the core finding: same campaign, same budget, same ke
 
 ## Demo / Screenshots
 
-📊 [View the Looker Studio Dashboard (April 2026)](<!-- INSERT LINK OR SCREENSHOT -->)
+📊 [View the Looker Studio Dashboard (April 2026)](./Original_Black's_BBQ_Dashboard.pdf)
 
 > *Dashboard includes: account overview, campaign performance, ad group breakdown, keyword performance, search query report, device split, demographic data, and geographic performance.*
 
