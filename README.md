@@ -41,8 +41,8 @@ Additional issues surfaced in the search term report:
 | Conv. Rate | 1.88% | 3.20% | 2.85% | 2.62% |
 
 **Location-level efficiency gap (non-brand campaign):**
-|---|---|---|---|---|
 | Location | Spend | Conversions | CPA | Conv. Rate |
+|---|---|---|---|---|
 | Austin | $548.84 | 30.67 | $17.90 | 1.56% |
 | San Marcos | $142.78 | 9.33 | $15.30 | 1.64% |
 | Lockhart | $124.66 | 12.00 | $10.39 | 2.42% |
